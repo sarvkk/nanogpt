@@ -68,4 +68,4 @@ Tiny Shakespeare: Accumulation of Shakespeare books in a condensed version.
 
 #### Results
 Share some results or examples of the model's output.
-https://github.com/user-attachments/assets/61f44c5d-a181-43cf-8251-77b11cb03089
+https://github.com/user-attachments/assets/61f44c5d-a181-43cf-8251-77b11cb03089![Screenshot 2025-02-25 114354](https://github.com/user-attachments/assets/bd3d6f37-f169-4c4a-a64f-10e9d014cd4a)
